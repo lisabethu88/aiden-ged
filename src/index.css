@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;700&family=Raleway:wght@400;700&display=swap");
+body {
+  margin: 0;
+  font-family: "Raleway", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 100%;
+  color: #f9f8dcff;
+  background-color: rgb(27, 26, 23);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
