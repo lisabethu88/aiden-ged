@@ -14,7 +14,7 @@ export const Home = () => {
           Homework {d.getMonth() + 1}/{d.getDate()}/{d.getFullYear()}
         </h2>
         <section className="board">
-          <h3>Onsego - Science </h3>
+          {/* <h3>Onsego - Science </h3>
           <ul>
             <li>
               <em>
@@ -26,7 +26,7 @@ export const Home = () => {
             <li>Immune System</li>
             <li>Lymph System</li>
             <li>Metabolism</li>
-          </ul>
+          </ul> */}
           {/* <h3>Language Arts (Writing)</h3>
           <ul>
             <li>
@@ -36,28 +36,28 @@ export const Home = () => {
             </li>
             <li>Do a prompt in essay book.</li>
           </ul> */}
-          {/* <h3>Onsego - Math</h3>
+          <h3>Onsego - Math</h3>
           <ul>
             <li>
               <em>
-                <b>DUE:</b> Oct 19th by 10AM
-              </em>
-    
-          </ul> */}
-          {/* <h3>Onsego - Social Studies</h3>
-          <ul>
-            <li>
-              <em>
-                <b>DUE:</b> Oct 19th by 10AM
+                <b>DUE:</b> Oct 26th by 8PM
               </em>
             </li>
-            <li>Revolutionary War Begins</li>
-            <li>Declaring Independence</li>
-            <li>Winning the War</li>
-            <li>A New Nation</li>
-            <li>Constitutional Convention</li>
-          </ul> */}
-          <h3>Onsego - Language Arts</h3>
+            <li>Fractions Practice Test</li>
+          </ul>
+          <h3>Onsego - Social Studies</h3>
+          <ul>
+            <li>
+              <em>
+                <b>DUE:</b> Oct 26th by 8PM
+              </em>
+            </li>
+            <li>The Antislavery Movement</li>
+            <li>Civil War Begins</li>
+            <li>The Civil War Ends</li>
+            <li>A Time of Invention and Business</li>
+          </ul>
+          {/* <h3>Onsego - Language Arts</h3>
           <ul>
             <li>
               <em>
@@ -71,7 +71,7 @@ export const Home = () => {
             <li>Identify Stated Main Idea</li>
             <li>Supporting Details</li>
             <li>Explicit and Implicit</li>
-          </ul>
+          </ul> */}
         </section>
       </section>{" "}
       <img width="500px" src={braixen} alt="braixen" />
