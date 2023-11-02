@@ -14,19 +14,15 @@ export const Home = () => {
           Homework {d.getMonth() + 1}/{d.getDate()}/{d.getFullYear()}
         </h2>
         <section className="board">
-          {/* <h3>Onsego - Science </h3>
+          <h3>Onsego - Science </h3>
           <ul>
             <li>
               <em>
-                <b>DUE:</b> Oct 24th by 10AM
+                <b>DUE:</b> Nov 3rd by 10AM
               </em>
             </li>
-            <li>Endocrine System</li>
-            <li>Excretory System</li>
-            <li>Immune System</li>
-            <li>Lymph System</li>
-            <li>Metabolism</li>
-          </ul> */}
+            <li>Life Science Human Health Practice Test</li>
+          </ul>
           {/* <h3>Language Arts (Writing)</h3>
           <ul>
             <li>
@@ -36,7 +32,7 @@ export const Home = () => {
             </li>
             <li>Do a prompt in essay book.</li>
           </ul> */}
-          <h3>Onsego - Math</h3>
+          {/* <h3>Onsego - Math</h3>
           <ul>
             <li>
               <em>
@@ -56,22 +52,20 @@ export const Home = () => {
             <li>Civil War Begins</li>
             <li>The Civil War Ends</li>
             <li>A Time of Invention and Business</li>
-          </ul>
-          {/* <h3>Onsego - Language Arts</h3>
+          </ul> */}
+          <h3>Onsego - Language Arts</h3>
           <ul>
             <li>
               <em>
-                <b>DUE:</b> Oct 24th by 10AM
+                <b>DUE:</b> Nov 3rd by 10AM
               </em>
             </li>
-            <li>English Usage Practice Test Topics</li>
-
-            <li>Author, Audience, and Purpose</li>
-            <li>5 Text Structures</li>
-            <li>Identify Stated Main Idea</li>
-            <li>Supporting Details</li>
-            <li>Explicit and Implicit</li>
-          </ul> */}
+            <li>Inferences and Conclusions</li>
+            <li>Summarize Details and Ideas</li>
+            <li>Chronological Order vs Sequence</li>
+            <li>Causes and Effects</li>
+            <li>Compare and Contrast</li>
+          </ul>
         </section>
       </section>{" "}
       <img width="500px" src={braixen} alt="braixen" />
