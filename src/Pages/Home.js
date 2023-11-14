@@ -32,28 +32,28 @@ export const Home = () => {
             </li>
             <li>Do a prompt in essay book.</li>
           </ul> */}
-          {/* <h3>Onsego - Math</h3>
+          <h3>Onsego - Math</h3>
           <ul>
             <li>
               <em>
-                <b>DUE:</b> Oct 26th by 8PM
+                <b>DUE:</b> Nov 15th by 10AM
               </em>
             </li>
-            <li>Fractions Practice Test</li>
+            <li>Fractions Sheet</li>
           </ul>
           <h3>Onsego - Social Studies</h3>
           <ul>
             <li>
               <em>
-                <b>DUE:</b> Oct 26th by 8PM
+                <b>DUE:</b> Nov 15th by 10AM
               </em>
             </li>
             <li>The Antislavery Movement</li>
             <li>Civil War Begins</li>
             <li>The Civil War Ends</li>
             <li>A Time of Invention and Business</li>
-          </ul> */}
-          <h3>Onsego - Language Arts</h3>
+          </ul>
+          {/* <h3>Onsego - Language Arts</h3>
           <ul>
             <li>
               <em>
@@ -65,7 +65,7 @@ export const Home = () => {
             <li>Chronological Order vs Sequence</li>
             <li>Causes and Effects</li>
             <li>Compare and Contrast</li>
-          </ul>
+          </ul> */}
         </section>
       </section>{" "}
       <img width="500px" src={braixen} alt="braixen" />
