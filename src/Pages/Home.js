@@ -14,7 +14,7 @@ export const Home = () => {
           Homework {d.getMonth() + 1}/{d.getDate()}/{d.getFullYear()}
         </h2>
         <section className="board">
-          <h3>Onsego - Science </h3>
+          {/* <h3>Onsego - Science </h3>
           <ul>
             <li>
               <em>
@@ -22,7 +22,7 @@ export const Home = () => {
               </em>
             </li>
             <li>Life Science Human Health Practice Test</li>
-          </ul>
+          </ul> */}
           {/* <h3>Language Arts (Writing)</h3>
           <ul>
             <li>
