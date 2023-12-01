@@ -18,13 +18,13 @@ export const Home = () => {
           <ul>
             <li>
               <em>
-                <b>DUE:</b> Nov 21st by 7pm
+                <b>DUE:</b> Dec 1st by 10AM
               </em>
             </li>
-            <li>Patterns of Inheritance</li>
-            <li>Mendelian Inheritance</li>
-            <li>Punnett Square</li>
-            <li>Homozygous vs Heterozygous</li>{" "}
+            <li>Recessive, Dominant Genes</li>
+            <li>Blood Type Inheritance</li>
+            <li>Evolution</li>
+            <li>Heritage Practice Test</li>
           </ul>
           {/* <h3>Language Arts (Writing)</h3>
           <ul>
@@ -39,9 +39,12 @@ export const Home = () => {
           <ul>
             <li>
               <em>
-                <b>DUE:</b> Nov 21st by 7pm
+                <b>DUE:</b> Dec 1st by 10am
               </em>
-              <li>Fraction Test</li>
+              <li>Decimals</li>
+              <li>Adding and Subtracting Decimals</li>
+              <li>Decimals Multiplication</li>
+              <li>Dividing Decimals</li>
             </li>
           </ul>
           {/* <h3>Onsego - Social Studies</h3>
