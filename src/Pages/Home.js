@@ -14,7 +14,7 @@ export const Home = () => {
           Homework {d.getMonth() + 1}/{d.getDate()}/{d.getFullYear()}
         </h2>
         <section className="board">
-          <h3>Onsego - Science </h3>
+          {/* <h3>Onsego - Science </h3>
           <ul>
             <li>
               <em>
@@ -25,7 +25,7 @@ export const Home = () => {
             <li>Blood Type Inheritance</li>
             <li>Evolution</li>
             <li>Heritage Practice Test</li>
-          </ul>
+          </ul> */}
           {/* <h3>Language Arts (Writing)</h3>
           <ul>
             <li>
@@ -39,12 +39,9 @@ export const Home = () => {
           <ul>
             <li>
               <em>
-                <b>DUE:</b> Dec 1st by 10am
+                <b>DUE:</b> Dec 6th by 10am
               </em>
-              <li>Decimals</li>
-              <li>Adding and Subtracting Decimals</li>
-              <li>Decimals Multiplication</li>
-              <li>Dividing Decimals</li>
+              <li>Decimals Test</li>
             </li>
           </ul>
           {/* <h3>Onsego - Social Studies</h3>
@@ -59,19 +56,19 @@ export const Home = () => {
             <li>The Civil War Ends</li>
             <li>A Time of Invention and Business</li>
           </ul> */}
-          {/* <h3>Onsego - Language Arts</h3>
+          <h3>Onsego - Language Arts</h3>
           <ul>
             <li>
               <em>
-                <b>DUE:</b> Nov 3rd by 10AM
+                <b>DUE:</b> Dec 6th by 10AM
               </em>
             </li>
-            <li>Inferences and Conclusions</li>
-            <li>Summarize Details and Ideas</li>
-            <li>Chronological Order vs Sequence</li>
-            <li>Causes and Effects</li>
-            <li>Compare and Contrast</li>
-          </ul> */}
+            <li>Figurative Language</li>
+            <li>Tone And Mood</li>
+            <li>Author’s Purpose and Figurative Language</li>
+            <li>Fiction vs Nonfiction</li>
+            <li>Comparing Different Genres</li>
+          </ul>
         </section>
       </section>{" "}
       <img width="500px" src={braixen} alt="braixen" />
