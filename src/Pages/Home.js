@@ -14,18 +14,16 @@ export const Home = () => {
           Homework {d.getMonth() + 1}/{d.getDate()}/{d.getFullYear()}
         </h2>
         <section className="board">
-          {/* <h3>Onsego - Science </h3>
+          <h3>Onsego - Science </h3>
           <ul>
-            <li>
-              <em>
-                <b>DUE:</b> Dec 1st by 10AM
-              </em>
-            </li>
-            <li>Recessive, Dominant Genes</li>
-            <li>Blood Type Inheritance</li>
-            <li>Evolution</li>
-            <li>Heritage Practice Test</li>
-          </ul> */}
+            <li>Conduction, Convection, and Radiation</li>
+            <li>Work</li>
+            <li>Speed, Velocity, and Acceleration</li>
+            <li>What are Forces?</li>
+            <li>Forces and Newton’s Laws</li>
+            <li>Energy</li>
+          </ul>{" "}
+          
           {/* <h3>Language Arts (Writing)</h3>
           <ul>
             <li>
@@ -34,7 +32,7 @@ export const Home = () => {
               </em>
             </li>
             <li>Do a prompt in essay book.</li>
-          </ul> */}
+          </ul>
           <h3>Onsego - Math</h3>
           <ul>
             <li>
@@ -44,7 +42,7 @@ export const Home = () => {
               <li>Decimals Test</li>
             </li>
           </ul>
-          {/* <h3>Onsego - Social Studies</h3>
+          <h3>Onsego - Social Studies</h3>
           <ul>
             <li>
               <em>
@@ -55,7 +53,7 @@ export const Home = () => {
             <li>Civil War Begins</li>
             <li>The Civil War Ends</li>
             <li>A Time of Invention and Business</li>
-          </ul> */}
+          </ul> 
           <h3>Onsego - Language Arts</h3>
           <ul>
             <li>
