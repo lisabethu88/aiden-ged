@@ -43,17 +43,13 @@ export const Home = () => {
   </ul>*/}
           <h3>Onsego - Social Studies</h3>
           <ul>
-            <li>
-              <em>
-                <b>DUE:</b> Nov 15th by 10AM
-              </em>
-            </li>
-            <li>The Antislavery Movement</li>
-            <li>Civil War Begins</li>
-            <li>The Civil War Ends</li>
-            <li>A Time of Invention and Business</li>
+            <li>Immigrants in America</li>
+            <li>World War I</li>
+            <li>The Great Depression</li>
+            <li>World War II</li>
+            <li>The Cold War</li>
           </ul>
-          <h3>Onsego - Language Arts</h3>
+          {/* <h3>Onsego - Language Arts</h3>
           <ul>
             <li>
               <em>
@@ -65,7 +61,7 @@ export const Home = () => {
             <li>Author’s Purpose and Figurative Language</li>
             <li>Fiction vs Nonfiction</li>
             <li>Comparing Different Genres</li>
-          </ul>
+          </ul> */}
         </section>
       </section>{" "}
       <img width="500px" src={braixen} alt="braixen" />
