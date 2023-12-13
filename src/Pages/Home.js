@@ -23,7 +23,6 @@ export const Home = () => {
             <li>Forces and Newton’s Laws</li>
             <li>Energy</li>
           </ul>{" "}
-          
           {/* <h3>Language Arts (Writing)</h3>
           <ul>
             <li>
@@ -41,7 +40,7 @@ export const Home = () => {
               </em>
               <li>Decimals Test</li>
             </li>
-          </ul>
+  </ul>*/}
           <h3>Onsego - Social Studies</h3>
           <ul>
             <li>
@@ -53,7 +52,7 @@ export const Home = () => {
             <li>Civil War Begins</li>
             <li>The Civil War Ends</li>
             <li>A Time of Invention and Business</li>
-          </ul> 
+          </ul>
           <h3>Onsego - Language Arts</h3>
           <ul>
             <li>
