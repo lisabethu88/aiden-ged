@@ -14,7 +14,7 @@ export const Home = () => {
           Homework {d.getMonth() + 1}/{d.getDate()}/{d.getFullYear()}
         </h2>
         <section className="board">
-          <h3>Onsego - Science </h3>
+          {/* <h3>Onsego - Science </h3>
           <ul>
             <li>Conduction, Convection, and Radiation</li>
             <li>Work</li>
@@ -22,46 +22,40 @@ export const Home = () => {
             <li>What are Forces?</li>
             <li>Forces and Newton’s Laws</li>
             <li>Energy</li>
-          </ul>{" "}
+          </ul>{" "} */}
           {/* <h3>Language Arts (Writing)</h3>
           <ul>
-            <li>
-              <em>
-                <b>DUE:</b> Oct 17th by 10AM
-              </em>
-            </li>
             <li>Do a prompt in essay book.</li>
-          </ul>
+          </ul> */}
           <h3>Onsego - Math</h3>
           <ul>
             <li>
-              <em>
-                <b>DUE:</b> Dec 6th by 10am
-              </em>
-              <li>Decimals Test</li>
+              <a href="https://app.onsego.com/courses/math/lessons/fractions-and-decimals/topic/comparing-fractions/">
+                Comparing Fractions
+              </a>
             </li>
-  </ul>*/}
-          <h3>Onsego - Social Studies</h3>
+            <li>
+              <a href="https://app.onsego.com/courses/math/lessons/fractions-and-decimals/topic/comparing-decimals/">
+                Comparing Decimals
+              </a>
+            </li>
+          </ul>
+          {/* <h3>Onsego - Social Studies</h3>
           <ul>
             <li>Immigrants in America</li>
             <li>World War I</li>
             <li>The Great Depression</li>
             <li>World War II</li>
             <li>The Cold War</li>
-          </ul>
-          {/* <h3>Onsego - Language Arts</h3>
+          </ul> */}
+          <h3>Onsego - Language Arts</h3>
           <ul>
             <li>
-              <em>
-                <b>DUE:</b> Dec 6th by 10AM
-              </em>
+              <a href="https://app.onsego.com/courses/rla/lessons/reading-comprehension/topic/reading-comprehension-practice-test/">
+                Reading comprehension test
+              </a>
             </li>
-            <li>Figurative Language</li>
-            <li>Tone And Mood</li>
-            <li>Author’s Purpose and Figurative Language</li>
-            <li>Fiction vs Nonfiction</li>
-            <li>Comparing Different Genres</li>
-          </ul> */}
+          </ul>
         </section>
       </section>{" "}
       <img width="500px" src={braixen} alt="braixen" />
