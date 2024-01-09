@@ -14,20 +14,18 @@ export const Home = () => {
           Homework {d.getMonth() + 1}/{d.getDate()}/{d.getFullYear()}
         </h2>
         <section className="board">
-          {/* <h3>Onsego - Science </h3>
+          <h3>Onsego - Science </h3>
           <ul>
-            <li>Conduction, Convection, and Radiation</li>
-            <li>Work</li>
-            <li>Speed, Velocity, and Acceleration</li>
-            <li>What are Forces?</li>
-            <li>Forces and Newton’s Laws</li>
-            <li>Energy</li>
-          </ul>{" "} */}
+            <li>Energy Resources</li>
+            <li>Waves</li>
+            <li>Electromagnetic Radiation</li>
+            <li>Physics Practice Test</li>
+          </ul>{" "}
           {/* <h3>Language Arts (Writing)</h3>
           <ul>
             <li>Do a prompt in essay book.</li>
           </ul> */}
-          <h3>Onsego - Math</h3>
+          {/* <h3>Onsego - Math</h3>
           <ul>
             <li>
               <a href="https://app.onsego.com/courses/math/lessons/fractions-and-decimals/topic/comparing-fractions/">
@@ -39,23 +37,23 @@ export const Home = () => {
                 Comparing Decimals
               </a>
             </li>
-          </ul>
-          {/* <h3>Onsego - Social Studies</h3>
-          <ul>
-            <li>Immigrants in America</li>
-            <li>World War I</li>
-            <li>The Great Depression</li>
-            <li>World War II</li>
-            <li>The Cold War</li>
           </ul> */}
-          <h3>Onsego - Language Arts</h3>
+          <h3>Onsego - Social Studies</h3>
+          <ul>
+            <li>Civil Rights</li>
+            <li>Vietnam War</li>
+            <li>September 11 Attacks</li>
+            <li>U.S. History Practice Test 1</li>
+            <li>U.S. History Practice Test 2</li>
+          </ul>
+          {/* <h3>Onsego - Language Arts</h3>
           <ul>
             <li>
               <a href="https://app.onsego.com/courses/rla/lessons/reading-comprehension/topic/reading-comprehension-practice-test/">
                 Reading comprehension test
               </a>
             </li>
-          </ul>
+          </ul> */}
         </section>
       </section>{" "}
       <img width="500px" src={braixen} alt="braixen" />
