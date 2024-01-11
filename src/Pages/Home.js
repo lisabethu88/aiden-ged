@@ -14,46 +14,66 @@ export const Home = () => {
           Homework {d.getMonth() + 1}/{d.getDate()}/{d.getFullYear()}
         </h2>
         <section className="board">
-          <h3>Onsego - Science </h3>
+          {/* <h3>Onsego - Science </h3>
           <ul>
             <li>Energy Resources</li>
             <li>Waves</li>
             <li>Electromagnetic Radiation</li>
             <li>Physics Practice Test</li>
-          </ul>{" "}
+          </ul>{" "} */}
           {/* <h3>Language Arts (Writing)</h3>
           <ul>
             <li>Do a prompt in essay book.</li>
           </ul> */}
-          {/* <h3>Onsego - Math</h3>
+          <h3>Onsego - Math</h3>
           <ul>
             <li>
-              <a href="https://app.onsego.com/courses/math/lessons/fractions-and-decimals/topic/comparing-fractions/">
-                Comparing Fractions
+              <a href="https://app.onsego.com/courses/math/lessons/fractions-and-decimals/topic/ordering-fractions-and-decimals/">
+                Ordering Fractions and Decimals
               </a>
             </li>
             <li>
-              <a href="https://app.onsego.com/courses/math/lessons/fractions-and-decimals/topic/comparing-decimals/">
-                Comparing Decimals
+              <a href="https://app.onsego.com/courses/math/lessons/fractions-and-decimals/topic/ordering-fractions-and-decimals/quizzes/ordering-fractions-and-decimals-quiz/">
+                Fractions and Decimals Practice Test
               </a>
             </li>
-          </ul> */}
-          <h3>Onsego - Social Studies</h3>
+          </ul>
+          {/* <h3>Onsego - Social Studies</h3>
           <ul>
             <li>Civil Rights</li>
             <li>Vietnam War</li>
             <li>September 11 Attacks</li>
             <li>U.S. History Practice Test 1</li>
             <li>U.S. History Practice Test 2</li>
-          </ul>
-          {/* <h3>Onsego - Language Arts</h3>
+          </ul> */}
+          <h3>Onsego - Language Arts</h3>
           <ul>
             <li>
-              <a href="https://app.onsego.com/courses/rla/lessons/reading-comprehension/topic/reading-comprehension-practice-test/">
-                Reading comprehension test
+              <a href="https://app.onsego.com/courses/rla/lessons/reading-analysis/topic/what-is-evidence/">
+                Claim and Evidence
               </a>
             </li>
-          </ul> */}
+            <li>
+              <a href="https://app.onsego.com/courses/rla/lessons/reading-analysis/topic/visual-evidence/">
+                Visual Evidence{" "}
+              </a>
+            </li>
+            <li>
+              <a href="https://app.onsego.com/courses/rla/lessons/reading-analysis/topic/claim-hypotheses/">
+                Evidence, Claim, and Hypotheses{" "}
+              </a>
+            </li>
+            <li>
+              <a href="https://app.onsego.com/courses/rla/lessons/reading-analysis/topic/identifying-arguments/">
+                Identifying Arguments{" "}
+              </a>
+            </li>
+            <li>
+              <a href="https://app.onsego.com/courses/rla/lessons/reading-analysis/topic/analyzing-arguments/">
+                Analyzing and Comparing Arguments{" "}
+              </a>
+            </li>
+          </ul>
         </section>
       </section>{" "}
       <img width="500px" src={braixen} alt="braixen" />
