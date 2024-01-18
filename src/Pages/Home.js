@@ -28,25 +28,50 @@ export const Home = () => {
           <h3>Onsego - Math</h3>
           <ul>
             <li>
-              <a href="https://app.onsego.com/courses/math/lessons/fractions-and-decimals/topic/ordering-fractions-and-decimals/">
-                Ordering Fractions and Decimals
+              <a href="https://app.onsego.com/courses/math/lessons/fractions-and-decimals/topic/fractions-decimals-vs-percents/">
+                Fractions Decimals vs Percents + Quiz
               </a>
             </li>
             <li>
-              <a href="https://app.onsego.com/courses/math/lessons/fractions-and-decimals/topic/ordering-fractions-and-decimals/quizzes/ordering-fractions-and-decimals-quiz/">
-                Fractions and Decimals Practice Test
+              <a href="https://app.onsego.com/courses/math/lessons/fractions-and-decimals/topic/solving-percent-problems/">
+                Percents + Quiz
               </a>
             </li>
           </ul>
-          {/* <h3>Onsego - Social Studies</h3>
+          <h3>Onsego - Social Studies</h3>
           <ul>
-            <li>Civil Rights</li>
-            <li>Vietnam War</li>
-            <li>September 11 Attacks</li>
-            <li>U.S. History Practice Test 1</li>
-            <li>U.S. History Practice Test 2</li>
-          </ul> */}
-          <h3>Onsego - Language Arts</h3>
+            <li>
+              <a href="https://app.onsego.com/courses/social-studies/lessons/n1-econ/topic/economics-and-economic-systems/">
+                Econmics and Economic Systems + Quiz
+              </a>
+            </li>
+            <li>
+              <a href="https://app.onsego.com/courses/social-studies/lessons/n1-econ/topic/government-and-the-economy/">
+                Government and the Economy + Quiz
+              </a>
+            </li>
+            <li>
+              <a href="https://app.onsego.com/courses/social-studies/lessons/n1-econ/topic/the-american-economy/">
+                The American Economy + Quiz
+              </a>
+            </li>
+            <li>
+              <a href="https://app.onsego.com/courses/social-studies/lessons/n1-econ/topic/supply-and-demand/">
+                Supply and Demand + Quiz
+              </a>
+            </li>
+            <li>
+              <a href="https://app.onsego.com/courses/social-studies/lessons/n1-econ/topic/business-and-labor/">
+                Business and Labor + Quiz
+              </a>
+            </li>
+            <li>
+              <a href="https://app.onsego.com/courses/social-studies/lessons/n1-econ/topic/economic-principles-practice-test/">
+                Economic Principles Practice Test
+              </a>
+            </li>
+          </ul>
+          {/* <h3>Onsego - Language Arts</h3>
           <ul>
             <li>
               <a href="https://app.onsego.com/courses/rla/lessons/reading-analysis/topic/what-is-evidence/">
@@ -73,7 +98,7 @@ export const Home = () => {
                 Analyzing and Comparing Arguments{" "}
               </a>
             </li>
-          </ul>
+          </ul> */}
         </section>
       </section>{" "}
       <img width="500px" src={braixen} alt="braixen" />
