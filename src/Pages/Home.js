@@ -26,19 +26,15 @@ export const Home = () => {
             <li>Do a prompt in essay book.</li>
           </ul> */}
           <h3>Onsego - Math</h3>
+          <h2>DO THIS ENTIRE SECTION</h2>
           <ul>
             <li>
-              <a href="https://app.onsego.com/courses/math/lessons/fractions-and-decimals/topic/fractions-decimals-vs-percents/">
-                Fractions Decimals vs Percents + Quiz
-              </a>
-            </li>
-            <li>
-              <a href="https://app.onsego.com/courses/math/lessons/fractions-and-decimals/topic/solving-percent-problems/">
-                Percents + Quiz
+              <a href="https://app.onsego.com/courses/math/lessons/algebra-laws/">
+                Three Mathematical Laws + Quizzes
               </a>
             </li>
           </ul>
-          <h3>Onsego - Social Studies</h3>
+          {/* <h3>Onsego - Social Studies</h3>
           <ul>
             <li>
               <a href="https://app.onsego.com/courses/social-studies/lessons/n1-econ/topic/economics-and-economic-systems/">
@@ -70,35 +66,35 @@ export const Home = () => {
                 Economic Principles Practice Test
               </a>
             </li>
-          </ul>
-          {/* <h3>Onsego - Language Arts</h3>
+          </ul> */}
+          <h3>Onsego - Language Arts</h3>
           <ul>
             <li>
-              <a href="https://app.onsego.com/courses/rla/lessons/reading-analysis/topic/what-is-evidence/">
-                Claim and Evidence
+              <a href="https://app.onsego.com/courses/rla/lessons/reading-analysis/topic/identifying-conclusions-re/">
+                Identifying Conclusions + Quiz
               </a>
             </li>
             <li>
-              <a href="https://app.onsego.com/courses/rla/lessons/reading-analysis/topic/visual-evidence/">
-                Visual Evidence{" "}
+              <a href="https://app.onsego.com/courses/rla/lessons/reading-analysis/topic/claims-and-conclusions/">
+                Claims and Conclusions + Quiz
               </a>
             </li>
             <li>
-              <a href="https://app.onsego.com/courses/rla/lessons/reading-analysis/topic/claim-hypotheses/">
-                Evidence, Claim, and Hypotheses{" "}
+              <a href="https://app.onsego.com/courses/rla/lessons/reading-analysis/topic/rhetorical-techniques/">
+                Rhetorical Techniques + Quiz
               </a>
             </li>
             <li>
-              <a href="https://app.onsego.com/courses/rla/lessons/reading-analysis/topic/identifying-arguments/">
-                Identifying Arguments{" "}
+              <a href="https://app.onsego.com/courses/rla/lessons/reading-analysis/topic/compare-ideas/">
+                Compare Ideas + Quiz
               </a>
             </li>
             <li>
-              <a href="https://app.onsego.com/courses/rla/lessons/reading-analysis/topic/analyzing-arguments/">
-                Analyzing and Comparing Arguments{" "}
+              <a href="https://app.onsego.com/courses/rla/lessons/reading-analysis/topic/reading-analysis-practice-test/">
+                Reading analysis practice test
               </a>
             </li>
-          </ul> */}
+          </ul>
         </section>
       </section>{" "}
       <img width="500px" src={braixen} alt="braixen" />
