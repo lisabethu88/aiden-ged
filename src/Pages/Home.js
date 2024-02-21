@@ -14,7 +14,7 @@ export const Home = () => {
           Homework {d.getMonth() + 1}/{d.getDate()}/{d.getFullYear()}
         </h2>
         <section className="board">
-          <h3>Onsego - Science </h3>
+          {/* <h3>Onsego - Science </h3>
           <h4>DO ALL THE QUIZZES</h4>
           <a href="https://app.onsego.com/courses/science/lessons/chemistry/">
             Link to Chemistry and Matter Module
@@ -72,7 +72,7 @@ export const Home = () => {
                 Quiz
               </a>
             </li>
-          </ul>{" "}
+          </ul> */}
           {/* <h3>Language Arts (Writing)</h3>
           <ul>
             <li>Do a prompt in essay book.</li>
@@ -119,34 +119,19 @@ export const Home = () => {
               </a>
             </li>
           </ul> */}
-          {/* <h3>Onsego - Language Arts</h3>
+          <h3>Onsego - Language Arts</h3>
           <ul>
             <li>
-              <a href="https://app.onsego.com/courses/rla/lessons/reading-analysis/topic/identifying-conclusions-re/">
-                Identifying Conclusions + Quiz
+              <a href="https://app.onsego.com/courses/rla/lessons/reading-long/">
+                Reading Long Texts Module - 1 lesson, 1 quiz
               </a>
             </li>
             <li>
-              <a href="https://app.onsego.com/courses/rla/lessons/reading-analysis/topic/claims-and-conclusions/">
-                Claims and Conclusions + Quiz
+              <a href="https://app.onsego.com/courses/rla/lessons/writing/">
+                Writing - 5 lesson, 5 quizzes
               </a>
             </li>
-            <li>
-              <a href="https://app.onsego.com/courses/rla/lessons/reading-analysis/topic/rhetorical-techniques/">
-                Rhetorical Techniques + Quiz
-              </a>
-            </li>
-            <li>
-              <a href="https://app.onsego.com/courses/rla/lessons/reading-analysis/topic/compare-ideas/">
-                Compare Ideas + Quiz
-              </a>
-            </li>
-            <li>
-              <a href="https://app.onsego.com/courses/rla/lessons/reading-analysis/topic/reading-analysis-practice-test/">
-                Reading analysis practice test
-              </a>
-            </li>
-          </ul> */}
+          </ul>
         </section>
       </section>{" "}
       <img width="500px" src={braixen} alt="braixen" />
