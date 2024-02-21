@@ -14,18 +14,64 @@ export const Home = () => {
           Homework {d.getMonth() + 1}/{d.getDate()}/{d.getFullYear()}
         </h2>
         <section className="board">
-          {/* <h3>Onsego - Science </h3>
+          <h3>Onsego - Science </h3>
+          <h4>DO ALL THE QUIZZES</h4>
+          <a href="https://app.onsego.com/courses/science/lessons/chemistry/">
+            Link to Chemistry and Matter Module
+          </a>
           <ul>
-            <li>Energy Resources</li>
-            <li>Waves</li>
-            <li>Electromagnetic Radiation</li>
-            <li>Physics Practice Test</li>
-          </ul>{" "} */}
+            <li>
+              <a href="https://app.onsego.com/courses/science/lessons/chemistry/topic/science-structure-of-atoms/">
+                What is an Atom?
+              </a>
+              <a href="https://app.onsego.com/courses/science/lessons/chemistry/topic/science-structure-of-atoms/quizzes/what-is-an-atom-quiz/">
+                Quiz
+              </a>
+            </li>
+            <li>
+              <a href="https://app.onsego.com/courses/science/lessons/chemistry/topic/molecules/">
+                Molecules
+              </a>
+              <a href="https://app.onsego.com/courses/science/lessons/chemistry/topic/molecules/quizzes/molecules-quiz/">
+                Quiz
+              </a>
+            </li>
+            <li>
+              <a href="https://app.onsego.com/courses/science/lessons/chemistry/topic/states-matter/">
+                States of Matter
+              </a>
+              <a href="">Quiz</a>
+            </li>
+            <li>
+              <a href="https://app.onsego.com/courses/science/lessons/chemistry/topic/chemical-reactions/">
+                Chemical Reactions
+              </a>
+              <a href="https://app.onsego.com/courses/science/lessons/chemistry/topic/states-matter/quizzes/state-of-matters-quiz/">
+                Quiz
+              </a>
+            </li>
+            <li>
+              <a href="https://app.onsego.com/courses/science/lessons/chemistry/topic/basic-properties-of-gas/">
+                Properties of Gases
+              </a>
+              <a href="https://app.onsego.com/courses/science/lessons/chemistry/topic/basic-properties-of-gas/quizzes/properties-of-gases-quiz/">
+                Quiz
+              </a>
+            </li>
+            <li>
+              <a href="https://app.onsego.com/courses/science/lessons/chemistry/topic/chemistry-and-matter-practice-test/">
+                Chemistry and Matter Practice Test
+              </a>
+              <a href="https://app.onsego.com/courses/science/lessons/chemistry/topic/chemistry-and-matter-practice-test/quizzes/chemistry-and-matter-practice-test/">
+                Quiz
+              </a>
+            </li>
+          </ul>{" "}
           {/* <h3>Language Arts (Writing)</h3>
           <ul>
             <li>Do a prompt in essay book.</li>
           </ul> */}
-          <h3>Onsego - Math</h3>
+          {/* <h3>Onsego - Math</h3>
           <h2>DO THIS ENTIRE SECTION</h2>
           <ul>
             <li>
@@ -33,7 +79,7 @@ export const Home = () => {
                 Three Mathematical Laws + Quizzes
               </a>
             </li>
-          </ul>
+          </ul> */}
           {/* <h3>Onsego - Social Studies</h3>
           <ul>
             <li>
@@ -67,7 +113,7 @@ export const Home = () => {
               </a>
             </li>
           </ul> */}
-          <h3>Onsego - Language Arts</h3>
+          {/* <h3>Onsego - Language Arts</h3>
           <ul>
             <li>
               <a href="https://app.onsego.com/courses/rla/lessons/reading-analysis/topic/identifying-conclusions-re/">
@@ -94,7 +140,7 @@ export const Home = () => {
                 Reading analysis practice test
               </a>
             </li>
-          </ul>
+          </ul> */}
         </section>
       </section>{" "}
       <img width="500px" src={braixen} alt="braixen" />
