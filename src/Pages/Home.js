@@ -24,6 +24,7 @@ export const Home = () => {
               <a href="https://app.onsego.com/courses/science/lessons/chemistry/topic/science-structure-of-atoms/">
                 What is an Atom?
               </a>
+              <br />
               <a href="https://app.onsego.com/courses/science/lessons/chemistry/topic/science-structure-of-atoms/quizzes/what-is-an-atom-quiz/">
                 Quiz
               </a>
@@ -32,6 +33,7 @@ export const Home = () => {
               <a href="https://app.onsego.com/courses/science/lessons/chemistry/topic/molecules/">
                 Molecules
               </a>
+              <br />
               <a href="https://app.onsego.com/courses/science/lessons/chemistry/topic/molecules/quizzes/molecules-quiz/">
                 Quiz
               </a>
@@ -40,12 +42,14 @@ export const Home = () => {
               <a href="https://app.onsego.com/courses/science/lessons/chemistry/topic/states-matter/">
                 States of Matter
               </a>
+              <br />
               <a href="">Quiz</a>
             </li>
             <li>
               <a href="https://app.onsego.com/courses/science/lessons/chemistry/topic/chemical-reactions/">
                 Chemical Reactions
               </a>
+              <br />
               <a href="https://app.onsego.com/courses/science/lessons/chemistry/topic/states-matter/quizzes/state-of-matters-quiz/">
                 Quiz
               </a>
@@ -54,6 +58,7 @@ export const Home = () => {
               <a href="https://app.onsego.com/courses/science/lessons/chemistry/topic/basic-properties-of-gas/">
                 Properties of Gases
               </a>
+              <br />
               <a href="https://app.onsego.com/courses/science/lessons/chemistry/topic/basic-properties-of-gas/quizzes/properties-of-gases-quiz/">
                 Quiz
               </a>
@@ -62,6 +67,7 @@ export const Home = () => {
               <a href="https://app.onsego.com/courses/science/lessons/chemistry/topic/chemistry-and-matter-practice-test/">
                 Chemistry and Matter Practice Test
               </a>
+              <br />
               <a href="https://app.onsego.com/courses/science/lessons/chemistry/topic/chemistry-and-matter-practice-test/quizzes/chemistry-and-matter-practice-test/">
                 Quiz
               </a>
