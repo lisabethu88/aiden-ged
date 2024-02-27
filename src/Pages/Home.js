@@ -119,7 +119,7 @@ export const Home = () => {
               </a>
             </li>
           </ul> */}
-          <h3>Onsego - Language Arts</h3>
+          {/* <h3>Onsego - Language Arts</h3>
           <ul>
             <li>
               <a href="https://app.onsego.com/courses/rla/lessons/reading-long/">
@@ -129,6 +129,25 @@ export const Home = () => {
             <li>
               <a href="https://app.onsego.com/courses/rla/lessons/writing/">
                 Writing - 5 lesson, 5 quizzes
+              </a>
+            </li>
+          </ul> */}
+
+          <h3>Onsego - Math</h3>
+          <ul>
+            <li>
+              <a
+                href="https://app.onsego.com/courses/math/lessons/algebra-laws/topic/math-laws-quick-review/quizzes/math-laws-quick-review-practice-test/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                {" "}
+                Three Math Laws Test
+              </a>
+            </li>
+            <li>
+              <a href="https://app.onsego.com/courses/math/lessons/factoring/">
+                Factoring Module - do all lessons and quizzes
               </a>
             </li>
           </ul>
