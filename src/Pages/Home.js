@@ -137,17 +137,11 @@ export const Home = () => {
           <ul>
             <li>
               <a
-                href="https://app.onsego.com/courses/math/lessons/algebra-laws/topic/math-laws-quick-review/quizzes/math-laws-quick-review-practice-test/"
+                href="https://app.onsego.com/courses/math/lessons/language-of-mathematics-2/"
                 target="_blank"
                 rel="noreferrer"
               >
-                {" "}
-                Three Math Laws Test
-              </a>
-            </li>
-            <li>
-              <a href="https://app.onsego.com/courses/math/lessons/factoring/">
-                Factoring Module - do all lessons and quizzes
+                Language of Mathetmatics Module - do all lessons and quizzes
               </a>
             </li>
           </ul>
